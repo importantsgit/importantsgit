@@ -6,8 +6,7 @@
     <Strong>☁️Portfolio List☁️</Strong><br><br>
 
     <a href="https://importantsdnd.notion.site/cf7070a9ebc1478786373f07b83b8c84" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimportants&count_bg=%23E79C34&title_bg=%234F4B4B&icon=swift.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br>
       <a href="[https://importantsdnd.notion.site/cf7070a9ebc1478786373f07b83b8c84](https://importantsdnd.notion.site/8c9312c6e9754157847a0f5bdcc865f9)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br><br>
@@ -23,7 +22,7 @@
 </p>
 
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimportants&count_bg=%23E79C34&title_bg=%234F4B4B&icon=swift.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwognsdk)](https://solved.ac/dlwognsdk)
