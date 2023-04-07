@@ -5,7 +5,7 @@
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
 
-    <a href="https://importantsdnd.notion.site/cf7070a9ebc1478786373f07b83b8c84" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+[    <a href="https://importantsdnd.notion.site/cf7070a9ebc1478786373f07b83b8c84" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>](https://img.shields.io/youtube/channel/views/importants)
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimportants&count_bg=%23E79C34&title_bg=%234F4B4B&icon=swift.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br>
       <a href="https://importantsdnd.notion.site/8c9312c6e9754157847a0f5bdcc865f9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
