@@ -27,6 +27,6 @@
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlwognsdk)](https://solved.ac/dlwognsdk)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=importantsgit&&show_icons=true&theme=graywhite)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=importantsgit&&show_icons=true&theme=graywhite)
 </div>
 
