@@ -20,13 +20,12 @@
 더욱 더 성장하기 위해 노력하는 개발자입니다.
 </p>
 
-<br>
+<br><br><br><br>
 
-
+<div align = "center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwognsdk)](https://solved.ac/dlwognsdk)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=importantsgit&&show_icons=true&theme=graywhite)
+</div>
 
-
-d
