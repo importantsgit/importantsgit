@@ -7,7 +7,7 @@
 
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBzpjeh9Dep6s4fE5j-f2aA">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimportantsgit&count_bg=%230051FF&title_bg=%230051FF&icon=swift.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-      <a href="https://importantsdnd.notion.site/8c9312c6e9754157847a0f5bdcc865f9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+      <a href="https://www.notion.so/importantsdnd/cf7070a9ebc1478786373f07b83b8c84" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>ljhjohn1@gmail.com<br>
 
