@@ -1,5 +1,5 @@
 <p align="center">
-![transparent](https://capsule-render.vercel.app/api?type=soft&fontColor=F77600&text=Importants's%20Git%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=soft&color=F77600&fontColor=000000&text=Importants's%20Git%20&height=150&fontSize=60&desc=Welcome!&animation=fadeIn&descAlignY=75&descAlign=60)
 </p>
 <br>
 
