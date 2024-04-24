@@ -1,5 +1,6 @@
+<p align="center">
 ![transparent](https://capsule-render.vercel.app/api?type=soft&fontColor=F77600&text=Importants's%20Git%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
-
+</p>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimportantsgit&count_bg=%23F77600&title_bg=%23000000&icon=swift.svg&icon_color=%23F77600&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
