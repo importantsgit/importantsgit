@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimportantsgit&count_bg=%23F77600&title_bg=%23000000&icon=swift.svg&icon_color=%23F77600&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 &nbsp;
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBzpjeh9Dep6s4fE5j-f2aA">(https://img.shields.io/youtube/channel/views/UCBzpjeh9Dep6s4fE5j-f2aA)
+[<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBzpjeh9Dep6s4fE5j-f2aA">](https://img.shields.io/youtube/channel/views/UCBzpjeh9Dep6s4fE5j-f2aA)
 &nbsp;
 [![Tech Blog Badge](http://img.shields.io/badge/Tech%20Blog-white?style=round-square&logo=notion&logoColor=black&link=https://https://www.notion.so/importantsdnd/8c9312c6e9754157847a0f5bdcc865f9?v=34acd1dbf8ec4c4da43022f9a6502538/)](https://www.notion.so/importantsdnd/8c9312c6e9754157847a0f5bdcc865f9?v=34acd1dbf8ec4c4da43022f9a6502538)
 
